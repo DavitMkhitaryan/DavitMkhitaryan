@@ -51,7 +51,7 @@ I am currently learning Fullstack Web Development 💻 covering Front-end (React
 
 - Development:
 <p>
-  <code><img width="4%" src="https://raw.githubusercontent.com/detain/svg-logos/aecbca0b533703a389211cddb0ca159a5d50553e/svg/html-5.svg"></code>
+  <code><img width="4%" src="https://raw.githubusercontent.com/leungwensen/svg-icon/8b84d725b0d2be8f5d87cac7f2c386682ce43563/dist/svg/logos/html-5.svg"></code>
   <code><img width="4%" src="https://brandeps.com/logo-download/C/CSS-3-logo-vector-01.svg"></code>
   <code><img width="4%" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original-wordmark.svg"></code>
   <code><img width="4%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1024px-Bootstrap_logo.svg.png?20210507000024"></code>
