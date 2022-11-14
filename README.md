@@ -3,7 +3,7 @@
 I'm **Davit**. I'm a **Software QA & Test Automation Engineer**. I have hands-on experience of working with multiple technologies and 15+ products in various industries from Fintech to Blockchain. I help businesses build and implement test processes and test strategy, lead QA teams and love working in multi-cultural, agile environments.
 
 #### ⚔ SKILLS & TOOLS:
-
+<code><img width="4%" src="https://cdn.worldvectorlogo.com/logos/solidity.svg](https://asset.brandfetch.io/idIq_kF0rb/idv3zwmSiY.jpeg"></code>
 
 <!--
 **DavitMkhitaryan/DavitMkhitaryan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
