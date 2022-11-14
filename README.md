@@ -8,10 +8,10 @@ I am currently learning Fullstack Web Development 💻 covering Front-end (React
 #### ⚔ TOOLS & TECHNOLOGIES:
 - Programming/Scripting Languages: 
 <p>
-  <code><img width="4%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"></code>
+  <code><img width="4%" src="https://vectorwiki.com/images/G9sE3__javascript.svg"></code>
   <code><img width="4%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"></code>
   <code><img width="4%" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"></code>
-  <code><img width="4%" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/solidity/solidity-original.svg"></code>
+  <code><img width="4%" src="https://vectorwiki.com/images/Nth1M__solidity.svg"></code>
 </p>
 
 - Testing & Test Automation:
