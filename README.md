@@ -11,7 +11,7 @@ I am currently learning Fullstack Web Development 💻 covering Front-end (React
   <code><img width="4%" src="https://vectorwiki.com/images/G9sE3__javascript.svg"></code>
   <code><img width="4%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"></code>
   <code><img width="4%" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"></code>
-  <code><img width="4%" src="https://vectorwiki.com/images/Nth1M__solidity.svg"></code>
+  <code><img width="4%" src="https://www.logo.wine/a/logo/Solidity/Solidity-Logo.wine.svg"></code>
 </p>
 
 - Testing & Test Automation:
