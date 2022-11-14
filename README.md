@@ -11,7 +11,7 @@ I'm **Davit**. I'm a **Software QA & Test Automation Engineer**. I have hands-on
   <code><img width="4%" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/solidity/solidity-original.svg"></code>
 </p>
 
-- Test Automation:
+- Testing & Test Automation:
 <p>
   <code><img width="4%" src="https://iconape.com/wp-content/files/gj/370774/svg/370774.svg"></code>
   <code><img width="4%" src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg"></code>
@@ -21,6 +21,9 @@ I'm **Davit**. I'm a **Software QA & Test Automation Engineer**. I have hands-on
   <code><img width="4%" src="https://www.vectorlogo.zone/logos/protractortest/protractortest-icon.svg"></code>
   <code><img width="4%" src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/selenium.svg"></code>
   <code><img width="4%" src="https://raw.githubusercontent.com/detain/svg-logos/aecbca0b533703a389211cddb0ca159a5d50553e/svg/appium.svg"></code>
+  <code><img width="4%" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"></code>
+  <code><img width="4%" src="https://vectorwiki.com/images/v21Kn__swaggerhub.svg"></code>
+  <code><img width="4%" src="https://upload.wikimedia.org/wikipedia/en/thumb/e/e6/Apache_JMeter_Logo.svg"></code>
 </p>
 
 - Databases:
@@ -28,3 +31,5 @@ I'm **Davit**. I'm a **Software QA & Test Automation Engineer**. I have hands-on
   <code><img width="4%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
   <code><img width="4%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
 </p>
+
+-
