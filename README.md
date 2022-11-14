@@ -23,6 +23,7 @@ I'm **Davit**. I'm a **Software QA & Test Automation Engineer**. I have hands-on
   <code><img width="4%" src="https://raw.githubusercontent.com/detain/svg-logos/aecbca0b533703a389211cddb0ca159a5d50553e/svg/appium.svg"></code>
   <code><img width="4%" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"></code>
   <code><img width="4%" src="https://vectorwiki.com/images/v21Kn__swaggerhub.svg"></code>
+  <code><img width="4%" src="https://w7.pngwing.com/pngs/499/554/png-transparent-apache-http-server-apache-software-foundation-apache-openoffice-computer-software-apache-tomcat-software-text-logo-banner.png"></code>
 </p>
 
 - Databases:
