@@ -31,4 +31,6 @@ I'm **Davit**. I'm a **Software QA & Test Automation Engineer**. I have hands-on
   <code><img width="4%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
 </p>
 
--
+- Version Control and CI/CD:
+
+- Blockchain:
