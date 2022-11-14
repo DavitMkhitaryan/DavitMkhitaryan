@@ -6,8 +6,7 @@ I'm **Davit**. I'm a **Software QA & Test Automation Engineer**. I have hands-on
 - Programming/Scripting Languages: 
 
 - Test Automation:
-<hr/>
-<code><img width="4%" src="https://iconape.com/wp-content/files/gj/370774/svg/370774.svg"></code>
+<img width="4%" src="https://iconape.com/wp-content/files/gj/370774/svg/370774.svg">
 
 <!--
 **DavitMkhitaryan/DavitMkhitaryan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
