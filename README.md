@@ -35,5 +35,13 @@ I am currently learning Fullstack Web Development 💻 covering Front-end (React
 </p>
 
 - Version Control and CI/CD:
+<p>
+  <code><img width="4%" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg"></code>
+  <code><img width="4%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
+</p>
 
 - Blockchain:
+<p>
+  <code><img width="4%" src="https://raw.githubusercontent.com/gilbarbara/logos/9c6e5e9ef3c297da414a4809ae9f0f56a6384e91/logos/ganache-icon.svg"></code>
+  <code><img width="4%" src="https://raw.githubusercontent.com/gilbarbara/logos/9c6e5e9ef3c297da414a4809ae9f0f56a6384e91/logos/truffle-icon.svg"></code>
+</p>
