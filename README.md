@@ -30,8 +30,8 @@ I am currently learning Fullstack Web Development 💻 covering Front-end (React
 
 - Databases:
 <p>
-  <code><img width="4%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
-  <code><img width="4%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+  <code><img width="4%" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mongodb/mongodb-plain-wordmark.svg"></code>
+  <code><img width="4%" src="https://raw.githubusercontent.com/amido/azure-vector-icons/44d6fb82666171e8a77bda35ab80303ecc880e1b/icons/SQL%20Database%20(SQL%20Azure).svg"></code>
 </p>
 
 - Version Control and CI/CD:
