@@ -45,7 +45,6 @@ I am currently learning Fullstack Web Development 💻 covering Front-end (React
   <code><img width="4%" src="https://raw.githubusercontent.com/gilbarbara/logos/9c6e5e9ef3c297da414a4809ae9f0f56a6384e91/logos/ganache-icon.svg"></code>
   <code><img width="4%" src="https://raw.githubusercontent.com/gilbarbara/logos/9c6e5e9ef3c297da414a4809ae9f0f56a6384e91/logos/truffle-icon.svg"></code>
   <code><img width="4%" src="https://raw.githubusercontent.com/gilbarbara/logos/9c6e5e9ef3c297da414a4809ae9f0f56a6384e91/logos/hardhat-icon.svg"></code>
-  <code><img width="4%" src="https://www.logo.wine/a/logo/Ethereum/Ethereum-Logo.wine.svg"></code>
-  <code><img width="4%" src="https://raw.githubusercontent.com/maxogden/hexbin/90a6aae0ebb12d4ac9810f870b67100d913a18f4/vector/ipfs.svg"></code>
+  <code><img width="4%" src="https://vectorwiki.com/images/Cmcvq__ethereum-eth.svg"></code>
   <code><img width="4%" src="https://raw.githubusercontent.com/maxogden/hexbin/90a6aae0ebb12d4ac9810f870b67100d913a18f4/vector/ipfs.svg"></code>
 </p>
