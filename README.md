@@ -56,6 +56,7 @@ I am currently learning Fullstack Development 💻 covering Front-end (React, Re
   <code><img width="4%" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original-wordmark.svg"></code>
   <code><img width="4%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1024px-Bootstrap_logo.svg.png?20210507000024"></code>
   <code><img width="4%" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg"></code>
+  <code><img width="4%" src="https://www.vectorlogo.zone/logos/digitalocean/digitalocean-official.svg"></code>
 </p>
 
 
