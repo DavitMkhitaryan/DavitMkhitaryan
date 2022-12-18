@@ -16,7 +16,7 @@ I am currently learning Fullstack Development 💻 covering Front-end (React, Re
 
 - Testing & Test Automation:
 <p>
-  <code><img width="4%" src="https://iconape.com/wp-content/files/gj/370774/svg/370774.svg"></code>
+  <code><img width="4%" src="https://raw.githubusercontent.com/gilbarbara/logos/0fabdf6def45abdfa138996fc20392e8004ad0b9/logos/cypress-icon.svg"></code>
   <code><img width="4%" src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg"></code>
   <code><img width="4%" src="https://www.vectorlogo.zone/logos/chaijs/chaijs-icon.svg"></code>
   <code><img width="4%" src="https://raw.githubusercontent.com/gilbarbara/logos/9c6e5e9ef3c297da414a4809ae9f0f56a6384e91/logos/webdriverio.svg"></code>
