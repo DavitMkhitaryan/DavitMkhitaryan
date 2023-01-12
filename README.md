@@ -62,6 +62,4 @@ I am currently learning Fullstack Development 💻 covering Front-end (React, Re
 
 #### 📈 GITHUB STATS
 
-<img style="border-radius:10px" src="https://github-readme-stats.vercel.app/api?username=DavitMkhitaryan&show_icons=true&theme=radical" />
-
 <img style="border-radius:10px" src="https://github-readme-streak-stats.herokuapp.com/?user=DavitMkhitaryan&show_icons=true&theme=radical" />
