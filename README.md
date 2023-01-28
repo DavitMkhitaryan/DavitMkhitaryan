@@ -2,7 +2,7 @@
 
 I'm **Davit**. I'm a **Senior Software QA & Test Automation Engineer**. I have hands-on experience of working with multiple technologies and 15+ products in various industries from Fintech to Blockchain. I help businesses build and implement test processes and test strategy, lead QA teams and love working in multi-cultural, agile environments. 
 
-I am also currently improving my skills in Fullstack Development 💻 covering Front-end (React, React Native...), Back-end (Node.js, Express...) and Smart Contract Development (Ethereum, Solidity...).
+I am also currently improving my skills in Fullstack Development 💻 covering Front-end, Back-end and Smart Contract Development.
 
 #### ⚔ TOOLS & TECHNOLOGIES:
 - Programming/Scripting Languages: 
