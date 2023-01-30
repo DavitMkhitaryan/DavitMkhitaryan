@@ -56,7 +56,7 @@ I am also currently improving my skills in Fullstack Development 💻 covering F
   <code><img width="4%" src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/redux.svg"></code>
   <code><img width="4%" src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg"></code>
   <code><img width="4%" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg"></code>
-  <code><img width="4%" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg"></code>
+  <code><img width="4%" src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png"></code>
   <code><img width="4%" src="https://www.vectorlogo.zone/logos/digitalocean/digitalocean-tile.svg"></code>
 </p>
 
