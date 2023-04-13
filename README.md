@@ -23,6 +23,7 @@ Also, I am currently improving my skills and practicing Fullstack (Web3) Develop
   <code><img width="4%" src="https://raw.githubusercontent.com/shgysk8zer0/logos/f3a3db236f747f242c4072262fbb55b36996181e/css3.svg"></code>
   <code><img width="4%" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original-wordmark.svg"></code>
   <code><img width="4%" src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/redux.svg"></code>
+  <code><img width="4%" src="https://iconape.com/wp-content/png_logo_vector/next-js-logo.png"></code>
   <code><img width="4%" src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg"></code>
   <code><img width="4%" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg"></code>
   <code><img width="4%" src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png"></code>
