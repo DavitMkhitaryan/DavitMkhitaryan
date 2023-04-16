@@ -35,6 +35,7 @@ I'm **Davit**. I'm a **Senior Software QA & Test Automation Engineer**. I have h
   <code><img width="4%" src="https://raw.githubusercontent.com/gilbarbara/logos/0fabdf6def45abdfa138996fc20392e8004ad0b9/logos/bitbucket.svg"></code>
   <code><img width="4%" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mongodb/mongodb-plain-wordmark.svg"></code>
   <code><img width="4%" src="https://upload.wikimedia.org/wikipedia/de/thumb/8/8c/Microsoft_SQL_Server_Logo.svg/1380px-Microsoft_SQL_Server_Logo.svg.png?20100429075711"></code>
+  <code><img width="4%" src="https://d2nir1j4sou8ez.cloudfront.net/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png"></code>
 </p>
 
 #### 📈 GITHUB STATS
