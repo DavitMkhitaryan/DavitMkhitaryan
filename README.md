@@ -1,6 +1,6 @@
 #### 👋 ABOUT ME 
 
-I'm **Davit**. I'm a **Senior Software Engineer in Test & Software Developer**. I have hands-on experience of working with multiple technologies and dozens of products in various industries from Fintech to Blockchain. I help businesses build and implement test processes, test strategy and test automation, lead QA teams and love working in multi-cultural, agile environments. Also, I am working on further improving my skills and practicing Fullstack Development 💻 covering Front-end, Back-end and Smart Contract Development. 
+I'm **Davit**. I'm a **Senior Software Engineer in Test & Software Developer**. With over 5 years of hands-on experience working on more than 15 web and mobile products, I have developed expertise and skills in several domains, including software testing and test automation, software development, network and system administration and information security. I help businesses build and implement test processes, test strategy and test automation, lead QA teams and love working in multi-cultural, agile environments. Currently working on further improving my skills in Fullstack Software Development covering Front-end, Back-end and Smart Contract Development :technologist:
 
 #### ⚔ TOOLS & TECHNOLOGIES:
 <p>
