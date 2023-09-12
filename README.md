@@ -1,6 +1,6 @@
 #### 👋 ABOUT ME 
 
-I'm **Davit**, a **Senior Software Engineer in Test & Software Developer**. With over 5 years of hands-on experience working on more than 15 web and mobile products, I have developed expertise and skills in several domains, including software testing and test automation, software development, network and system administration and information security. I help businesses build and implement test processes, test strategy and test automation, lead QA teams and love working in multi-cultural, agile environments. Currently working on further improving my skills in Fullstack Software Development. :technologist:
+I'm **Davit**, a **Senior Software Engineer in Test & Software Developer**. With over 5 years of hands-on experience working on more than 20 web and mobile products, I have developed expertise and skills in several domains, including software testing and test automation, software development, network and system administration and information security. I help businesses build and implement test processes, test strategy and test automation, lead QA teams and love working in multi-cultural, agile environments. Currently working on further improving my skills in Fullstack Software Development. :technologist:
 
 #### ⚔ TOOLS & TECHNOLOGIES:
 <p>
