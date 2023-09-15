@@ -42,4 +42,4 @@ I'm **Davit**, a **Senior Software Engineer in Test & Software Developer**. With
 
 <img style="border-radius:10px" src="https://github-readme-streak-stats.herokuapp.com/?user=DavitMkhitaryan&show_icons=true&theme=tokyonight" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavitMkhitaryan&layout=compact&bg_color=#1A1B27)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavitMkhitaryan&layout=compact&bg_color=1A1B27)
