@@ -40,4 +40,4 @@ I'm **Davit**, a **Senior Software Engineer in Test & Software Developer**. With
 
 #### 📈 GITHUB STATS
 
-<img style="border-radius:10px" src="https://github-readme-streak-stats.herokuapp.com/?user=DavitMkhitaryan&show_icons=true&theme=radical" />
+<img style="border-radius:10px" src="https://github-readme-streak-stats.herokuapp.com/?user=DavitMkhitaryan&show_icons=true&theme=tokyonight" />
