@@ -41,5 +41,7 @@ I'm **Davit**, a **Senior Software Engineer in Test & Software Developer**. With
 #### 📈 GITHUB STATS
 
 <img style="border-radius:10px" src="https://github-readme-streak-stats.herokuapp.com/?user=DavitMkhitaryan&show_icons=true&theme=tokyonight" />
+
 ![Davit's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavitMkhitaryan&show_icons=true&theme=radical)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavitMkhitaryan)](https://github.com/DavitMkhitaryan/github-readme-stats)
