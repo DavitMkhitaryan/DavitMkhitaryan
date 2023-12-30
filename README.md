@@ -30,7 +30,6 @@ I'm **Davit**, **Senior Software Test Engineer & Software Developer**. With over
   <code><img width="4%" src="https://raw.githubusercontent.com/gilbarbara/logos/9c6e5e9ef3c297da414a4809ae9f0f56a6384e91/logos/truffle-icon.svg"></code>
   <code><img width="4%" src="https://raw.githubusercontent.com/gilbarbara/logos/9c6e5e9ef3c297da414a4809ae9f0f56a6384e91/logos/hardhat-icon.svg"></code>
   <code><img width="4%" src="https://vectorwiki.com/images/Cmcvq__ethereum-eth.svg"></code>
-  <code><img width="4%" src="https://raw.githubusercontent.com/maxogden/hexbin/90a6aae0ebb12d4ac9810f870b67100d913a18f4/vector/ipfs.svg"></code>
   <code><img width="4%" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg"></code>
   <code><img width="4%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
   <code><img width="4%" src="https://raw.githubusercontent.com/gilbarbara/logos/0fabdf6def45abdfa138996fc20392e8004ad0b9/logos/bitbucket.svg"></code>
