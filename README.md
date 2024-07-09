@@ -14,6 +14,7 @@ I'm **Davit**, **Senior Software Test Engineer & Software Developer**. With over
   <code><img width="4%" src="https://raw.githubusercontent.com/gilbarbara/logos/9c6e5e9ef3c297da414a4809ae9f0f56a6384e91/logos/webdriverio.svg"></code>
   <code><img width="4%" src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/selenium.svg"></code>
   <code><img width="4%" src="https://raw.githubusercontent.com/detain/svg-logos/aecbca0b533703a389211cddb0ca159a5d50553e/svg/appium.svg"></code>
+  <code><img width="4%" src="https://cbb52c6ff2ef86487c86a6ef421fe71d.cdn.bubble.io/f1706135492581x221895859718018940/synpress_twitter_profile.png"></code>
   <code><img width="4%" src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg"></code>
   <code><img width="4%" src="https://www.vectorlogo.zone/logos/chaijs/chaijs-icon.svg"></code>
   <code><img width="4%" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"></code>
