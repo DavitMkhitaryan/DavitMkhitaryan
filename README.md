@@ -9,13 +9,13 @@ I'm **Davit**, **Senior Software Test Engineer & Software Developer**. With over
   <code><img width="4%" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"></code>
   <code><img width="4%" src="https://www.svgrepo.com/show/452110/swift.svg"></code>
   <code><img width="4%" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/63a4a33b35b50d243716d03b95a955e49db97662/icons/file_type_solidity.svg"></code>
-  <code><img width="4%" src="https://raw.githubusercontent.com/gilbarbara/logos/0fabdf6def45abdfa138996fc20392e8004ad0b9/logos/cypress-icon.svg"></code>
-  <code><img width="4%" src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg"></code>
-  <code><img width="4%" src="https://www.vectorlogo.zone/logos/chaijs/chaijs-icon.svg"></code>
-  <code><img width="4%" src="https://raw.githubusercontent.com/gilbarbara/logos/9c6e5e9ef3c297da414a4809ae9f0f56a6384e91/logos/webdriverio.svg"></code>
   <code><img width="4%" src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/dd29d40f829c2cea9cbd7ffac13a3add888e2199/public/logos/playwright.svg"></code>
+  <code><img width="4%" src="https://raw.githubusercontent.com/gilbarbara/logos/0fabdf6def45abdfa138996fc20392e8004ad0b9/logos/cypress-icon.svg"></code>
+  <code><img width="4%" src="https://raw.githubusercontent.com/gilbarbara/logos/9c6e5e9ef3c297da414a4809ae9f0f56a6384e91/logos/webdriverio.svg"></code>
   <code><img width="4%" src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/selenium.svg"></code>
   <code><img width="4%" src="https://raw.githubusercontent.com/detain/svg-logos/aecbca0b533703a389211cddb0ca159a5d50553e/svg/appium.svg"></code>
+  <code><img width="4%" src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg"></code>
+  <code><img width="4%" src="https://www.vectorlogo.zone/logos/chaijs/chaijs-icon.svg"></code>
   <code><img width="4%" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"></code>
   <code><img width="4%" src="https://vectorwiki.com/images/v21Kn__swaggerhub.svg"></code>
   <code><img width="4%" src="https://raw.githubusercontent.com/leungwensen/svg-icon/8b84d725b0d2be8f5d87cac7f2c386682ce43563/dist/svg/logos/html-5.svg"></code>
