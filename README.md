@@ -7,7 +7,7 @@ I'm **Davit**, **Senior Software Test Engineer & Software Developer**. With over
   <code><img width="4%" src="https://vectorwiki.com/images/G9sE3__javascript.svg"></code>
   <code><img width="4%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"></code>
   <code><img width="4%" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"></code>
-  <code><img width="4%" src="https://logowik.com/content/uploads/images/558_swift_logo_icon.jpg"></code>
+  <code><img width="4%" src="https://www.svgrepo.com/show/452110/swift.svg"></code>
   <code><img width="4%" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/63a4a33b35b50d243716d03b95a955e49db97662/icons/file_type_solidity.svg"></code>
   <code><img width="4%" src="https://raw.githubusercontent.com/gilbarbara/logos/0fabdf6def45abdfa138996fc20392e8004ad0b9/logos/cypress-icon.svg"></code>
   <code><img width="4%" src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg"></code>
