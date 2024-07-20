@@ -17,6 +17,7 @@ I'm **Davit**, **Senior Software Test Engineer & Software Developer**. With over
   <code><img width="4%" src="https://cbb52c6ff2ef86487c86a6ef421fe71d.cdn.bubble.io/f1706135492581x221895859718018940/synpress_twitter_profile.png"></code>
   <code><img width="4%" src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg"></code>
   <code><img width="4%" src="https://www.vectorlogo.zone/logos/chaijs/chaijs-icon.svg"></code>
+  <code><img width="4%" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/jest-js-icon.png"></code>
   <code><img width="4%" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"></code>
   <code><img width="4%" src="https://vectorwiki.com/images/v21Kn__swaggerhub.svg"></code>
   <code><img width="4%" src="https://raw.githubusercontent.com/leungwensen/svg-icon/8b84d725b0d2be8f5d87cac7f2c386682ce43563/dist/svg/logos/html-5.svg"></code>
