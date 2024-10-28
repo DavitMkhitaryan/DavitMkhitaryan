@@ -39,8 +39,7 @@ I'm **Davit**, **Senior Software Test Engineer & Software Developer**. With over
   <code><img width="4%" src="https://raw.githubusercontent.com/gilbarbara/logos/9c6e5e9ef3c297da414a4809ae9f0f56a6384e91/logos/truffle-icon.svg"></code>
   <code><img width="4%" src="https://raw.githubusercontent.com/gilbarbara/logos/9c6e5e9ef3c297da414a4809ae9f0f56a6384e91/logos/hardhat-icon.svg"></code>
   <code><img width="4%" src="https://vectorwiki.com/images/Cmcvq__ethereum-eth.svg"></code>
-  <code><img width="4%" src="https://vectorwiki.com/images/Cmcvq__ethereum-eth.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/800px-Rust_programming_language_black_logo.svg.png"></code>
- <code><img width="4%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/800px-Rust_programming_language_black_logo.svg.png"></code>
+  <code><img width="4%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/800px-Rust_programming_language_black_logo.svg.png"></code>
   <code><img width="4%" src="https://cryptologos.cc/logos/solana-sol-logo.svg"></code>
   <code><img width="4%" src="https://www.anchor-lang.com/logo.png"></code>
 </p>
