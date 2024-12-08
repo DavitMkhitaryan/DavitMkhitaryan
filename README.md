@@ -2,6 +2,8 @@
 
 I'm **Davit**, **Senior Software Test Engineer & Software Developer**. With over 6 years of hands-on experience working on more than 30 web and mobile products, I have developed expertise and skills in several domains, including software testing and test automation, software development, network and system administration and information security. I help businesses build and implement test processes, test strategy and test automation, lead QA teams and love working in multi-cultural, agile environments. :technologist:
 
+davitmk.eth | davitmk.sol
+
 #### ⚔ TOOLS & TECHNOLOGIES:
 <p>
   <code><img width="4%" src="https://vectorwiki.com/images/G9sE3__javascript.svg"></code>
