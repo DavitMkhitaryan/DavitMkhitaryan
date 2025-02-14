@@ -42,7 +42,6 @@ davitmk.eth | davitmk.sol
   <code><img width="4%" src="https://vectorwiki.com/images/Cmcvq__ethereum-eth.svg"></code>
   <code><img width="4%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/800px-Rust_programming_language_black_logo.svg.png"></code>
   <code><img width="4%" src="https://cryptologos.cc/logos/solana-sol-logo.svg"></code>
-  <code><img width="4%" src="https://www.anchor-lang.com/logo.png"></code>
 </p>
 
 #### 📈 GITHUB STATS
